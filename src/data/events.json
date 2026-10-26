@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "t": "Hack the Gully 24-hour hackathon",
+    "c": "Tech",
+    "d": "2026-11-07",
+    "tm": "9:00 AM",
+    "v": "Lab Complex, Block C",
+    "o": "TechSpace",
+    "p": 0,
+    "desc": "Build something useful for Delhi in 24 hours. Teams of up to four, mentors from product companies, and chai that never runs out. Bring a laptop, a charger and a bad idea that might turn good."
+  },
+  {
+    "id": 2,
+    "t": "Figma for the first time",
+    "c": "Workshop",
+    "d": "2026-11-02",
+    "tm": "4:00 PM",
+    "v": "Seminar Hall 2",
+    "o": "Design Circle",
+    "p": 0,
+    "desc": "Two hours, one laptop, one finished mobile screen. We start from an empty frame and end with a clickable prototype. No design background needed."
+  },
+  {
+    "id": 3,
+    "t": "Open mic: shayari and stand-up",
+    "c": "Cultural",
+    "d": "2026-11-04",
+    "tm": "5:30 PM",
+    "v": "Amphitheatre",
+    "o": "Literary Society",
+    "p": 0,
+    "desc": "Five minutes on stage, any language. Poems, jokes, a rant about the mess menu. Sign up at the door or just cheer from the steps."
+  },
+  {
+    "id": 4,
+    "t": "Inter-branch box cricket",
+    "c": "Sports",
+    "d": "2026-11-09",
+    "tm": "8:00 AM",
+    "v": "Sports Ground",
+    "o": "Sports Council",
+    "p": 100,
+    "desc": "Six-a-side, six overs. Entry is ₹100 per team and the winners take home the trophy and bragging rights until next semester."
+  },
+  {
+    "id": 5,
+    "t": "Unplugged at the steps",
+    "c": "Music",
+    "d": "2026-11-12",
+    "tm": "6:00 PM",
+    "v": "Main Building Steps",
+    "o": "Music Club",
+    "p": 0,
+    "desc": "Acoustic sets from student bands as the sun goes down. Blankets welcome. Requests allowed, but no promises."
+  },
+  {
+    "id": 6,
+    "t": "Git and GitHub, finally explained",
+    "c": "Workshop",
+    "d": "2026-11-05",
+    "tm": "3:00 PM",
+    "v": "Computer Lab 4",
+    "o": "Open Source Cell",
+    "p": 0,
+    "desc": "Branches, merges, pull requests and how to undo mistakes. You will push your first contribution to a real repo before you leave."
+  },
+  {
+    "id": 7,
+    "t": "Utsav 2026: annual fest",
+    "c": "Fest",
+    "d": "2026-11-20",
+    "tm": "10:00 AM",
+    "v": "Whole Campus",
+    "o": "Student Council",
+    "p": 0,
+    "desc": "Three days of competitions, food stalls, a flea market and a closing night concert. Volunteers needed for registration and decor."
+  },
+  {
+    "id": 8,
+    "t": "Intro to ML: build a doubt classifier",
+    "c": "Tech",
+    "d": "2026-11-14",
+    "tm": "2:00 PM",
+    "v": "AI Lab",
+    "o": "AI Society",
+    "p": 0,
+    "desc": "Train a small model that tags student questions by topic. We cover datasets, TF-IDF and a simple Gradio demo you can show off."
+  },
+  {
+    "id": 9,
+    "t": "Street play: Ek Raat Hostel Mein",
+    "c": "Cultural",
+    "d": "2026-11-16",
+    "tm": "7:00 PM",
+    "v": "Open Air Stage",
+    "o": "Dramatics Club",
+    "p": 0,
+    "desc": "A comedy about one night, one hostel corridor and one missing maggi packet. Written, directed and performed by first years."
+  }
+]
